@@ -2,7 +2,7 @@
 
 Un juego de salto y recolección para ESP32 con pantalla OLED y control por joystick. Guía a la oveja para que salte sobre los arbustos peligrosos mientras recoges items para obtener la máxima puntuación.
 
-![Gameplay Screenshot](placeholder.png)
+![Gameplay Screenshot](https://raw.githubusercontent.com/scharss/arduinoide/refs/heads/main/jumper/placeholder.jpeg)
 
 
 ## Características
